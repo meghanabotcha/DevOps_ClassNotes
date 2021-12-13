@@ -6,4 +6,4 @@
 
   tasks:
   - name: create a deployment
-    command: kubectl apply -f https://github.com/meghanabotcha/DevOps_ClassNotes/blob/master/CICD%20pipeline/kubedeployment.yml
+    command: kubectl apply -f https://raw.githubusercontent.com/meghanabotcha/DevOps_ClassNotes/master/CICD%20pipeline/kubedeployment.yml
